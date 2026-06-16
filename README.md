@@ -94,7 +94,7 @@ Real-time object detection pipeline using computer vision techniques — identif
 > HTML · CSS · JavaScript
 
 Responsive portfolio website showcasing my work as a Full Stack Developer and Data Analyst.
-**→ [Live Demo](https://your-portfolio.com)**
+**→ [Live Demo]**
 
 ---
 
@@ -111,7 +111,7 @@ Responsive portfolio website showcasing my work as a Full Stack Developer and Da
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 - [ ] Deploy 3 full-stack projects with live URLs
 - [ ] Contribute to 5 open-source repositories
