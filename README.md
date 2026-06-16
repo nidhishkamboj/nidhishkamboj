@@ -17,11 +17,11 @@
 
 I'm a Python developer and data enthusiast with a focus on building full-stack web applications and machine learning pipelines. I've shipped projects ranging from grocery management systems to IPL analytics dashboards and object detection systems — turning raw data into usable products.
 
-- 🔭 Currently working on: **[Your current project]**
-- 🌱 Learning: **[e.g., FastAPI / LangChain / React]**
+- 🔭 Currently working on: Setting up my development portfolio and deploying my projects live
+- 🌱  Currently consolidating: Django + ML integration and full-stack deployment
 - 💬 Ask me about: **Django, Power BI, ML workflows, SQLite**
 - 📍 Based in **Punjab, India**
-- 📫 Reach me at: **your@email.com**
+- 📫 Reach me at: **Nidhishkamboj@gmail.com**
 
 ---
 
