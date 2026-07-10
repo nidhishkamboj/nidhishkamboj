@@ -197,19 +197,7 @@ me = NidhishKamboj()
 
 ---
 
-## 🎯 2026 Goals
 
-<div align="center">
-
-| Goal | Status |
-|------|--------|
-| 🚀 Deploy 3 full-stack projects with live URLs | 🔄 In Progress |
-| 🤝 Contribute to 5 open-source repositories | 📋 Planned |
-| 🤖 Build & publish an ML project on Hugging Face | 📋 Planned |
-| 📈 Reach 200+ GitHub contributions | 🔄 In Progress |
-| 💼 Land a data / backend engineering role | 🎯 Target |
-
-</div>
 
 ---
 
