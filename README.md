@@ -148,6 +148,19 @@ me = NidhishKamboj()
 <tr>
 <td width="50%" valign="top">
 
+### 📊 CampaignIQ — A/B Testing Dashboard
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nidhishkamboj/campaigniq)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+> Interactive Power BI dashboard comparing A/B test performance between a Control and Test marketing campaign — full funnel analysis from impressions to purchases, with cost-efficiency vs. scale trade-offs and a data-backed final recommendation.
+
+📈 Funnel Analysis &nbsp;|&nbsp; 💰 Cost & Conversion &nbsp;|&nbsp; ✅ Decision Summary
+
+</td>
+<td width="50%" valign="top">
+
 ### 🌐 Personal Portfolio
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nidhishkamboj/personal-portfolio)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -159,17 +172,17 @@ me = NidhishKamboj()
 📱 Responsive &nbsp;|&nbsp; 🎨 Custom Design &nbsp;|&nbsp; ⚡ Vanilla JS
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" align="center">
 
-<br/><br/>
-
-<div align="center">
+<br/>
 
 **More projects coming soon...**
 
 ![WIP](https://img.shields.io/badge/🔧%20In%20Progress-ML%20on%20Hugging%20Face-7C3AED?style=for-the-badge)
 
-</div>
+<br/>
 
 </td>
 </tr>
