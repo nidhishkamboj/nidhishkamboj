@@ -1,188 +1,184 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nidhish%20Kamboj&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Python%20Developer%20%7C%20Data%20Analyst%20%7C%20Full-Stack%20Builder&descAlignY=58&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:06B6D4&text=Nidhish%20Kamboj&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Data%20Analyst%20|%20Python%20Developer%20|%20Backend%20Developer&descAlignY=60&descSize=20"/>
 
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Building+data-driven+products+%F0%9F%9A%80;Django+%7C+ML+%7C+Power+BI+%7C+OpenCV;Turning+raw+data+into+real+solutions+%F0%9F%93%8A;Based+in+Punjab%2C+India+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=24\&duration=3000\&pause=1000\&center=true\&vCenter=true\&width=900\&lines=Data+Analyst+%F0%9F%93%8A;Python+Developer+%F0%9F%90%8D;Backend+Developer+%E2%9A%99%EF%B8%8F;Power+BI+%7C+SQL+%7C+Python+%7C+Django;Turning+Data+Into+Business+Insights+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<br/>
+<br>
 
-<!-- SOCIAL BADGES -->
 <a href="https://linkedin.com/in/nidhishkamboj">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:Nidhishkamboj@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+<a href="mailto:nidhishkamboj@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/nidhishkamboj/personal-portfolio">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-7C3AED?style=for-the-badge&logo=firefox&logoColor=white"/>
+
+<a href="https://github.com/nidhishkamboj">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=nidhishkamboj&label=Profile+Views&color=7C3AED&style=for-the-badge" alt="profile views"/>
+
+<img src="https://komarev.com/ghpvc/?username=nidhishkamboj&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
 
 </div>
 
-<br/>
+---
+
+# 👋 About Me
+
+I'm a **Data Analyst and Python Developer** passionate about transforming raw data into actionable business insights and building practical software solutions.
+
+* 📊 Skilled in **Data Analytics, SQL, Power BI, Python & Excel**
+* 🐍 Building applications using **Python & Django**
+* 📈 Experienced in **Data Cleaning, Visualization & Dashboard Development**
+* 🤖 Exploring **Machine Learning & Data Engineering**
+* 🚀 Seeking opportunities in **Data Analytics, Business Intelligence, Python Development, and Backend Engineering**
 
 ---
 
-## ⚡ About Me
+# 🎯 Current Focus
 
-```python
-class NidhishKamboj:
-    def __init__(self):
-        self.name        = "Nidhish Kamboj"
-        self.location    = "Punjab, India 🇮🇳"
-        self.role        = "Python Developer & Data Analyst"
-        self.focus       = ["Full-Stack Web Apps", "ML Pipelines", "Data Visualization"]
-        self.stack       = ["Django", "Python", "Power BI", "OpenCV", "SQLite"]
-        self.email       = "Nidhishkamboj@gmail.com"
-        self.linkedin    = "linkedin.com/in/nidhishkamboj"
-
-    def current_status(self):
-        return {
-            "🔭 Working on"   : "Deploying projects live with real-world impact",
-            "🌱 Learning"     : "Django + ML integration & full-stack deployment",
-            "💬 Ask me about" : "Django, Power BI, ML workflows, SQLite",
-            "🎯 Goal 2026"    : "Land a data / backend engineering role",
-        }
-
-me = NidhishKamboj()
+```text
+🔭 Building real-world analytics projects
+🌱 Learning Advanced SQL, Data Engineering & Cloud Technologies
+📊 Creating business dashboards with Power BI
+⚙️ Developing backend applications using Django
+🎯 Goal: Land a Data Analyst / Python Developer role
 ```
 
 ---
 
-## 🛠️ Tech Arsenal
+# 🛠️ Tech Stack
 
-<div align="center">
+## Languages
 
-**Languages**
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,mysql"/>
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## Data Analytics
 
-**Frameworks & Libraries**
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+## Backend & Databases
 
-**Data & Visualization**
+<p>
+<img src="https://skillicons.dev/icons?i=django,sqlite,mysql"/>
+</p>
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+## Tools
 
-**Databases & Tools**
-
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=git,vscode"/>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
+
+### 📊 IPL Analytics Dashboard
+
+**Tech:** Power BI, Python, Pandas
+
+* Team performance analysis
+* Player statistics
+* Venue insights
+* Interactive KPIs
+
+🔗 Repository:
+https://github.com/nidhishkamboj/IPL-Analysis-Dashboard-2008-2022
+
+</td>
+
+<td width="50%">
+
+### 📈 CampaignIQ A/B Testing Dashboard
+
+**Tech:** Power BI, Python, Pandas
+
+* Funnel analysis
+* Conversion metrics
+* Cost efficiency tracking
+* Marketing insights
+
+🔗 Repository:
+https://github.com/nidhishkamboj/campaigniq
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 🛒 Grocery Store Management System
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nidhishkamboj/Grocery-Store-Management-Systen)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-> Full-stack web app for product browsing, cart management & order placement. Built with session-based auth, admin panel, and full CRUD on products.
+**Tech:** Django, Python, SQLite
 
-✅ Session-based cart &nbsp;|&nbsp; ✅ Admin panel &nbsp;|&nbsp; ✅ Full CRUD
+* Authentication system
+* Shopping cart
+* Product management
+* CRUD operations
 
-</td>
-<td width="50%" valign="top">
-
-### 🏏 IPL Analytics Dashboard
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nidhishkamboj/IPL-Analysis-Dashboard-2008-2022)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-> End-to-end analytics on IPL 2008–2022 data with interactive dashboards tracking team & player stats, win rates, and venue trends.
-
-📊 10+ KPI Views &nbsp;|&nbsp; 📈 Season Trends &nbsp;|&nbsp; 🏟️ Venue Insights
+🔗 Repository:
+https://github.com/nidhishkamboj/Grocery-Store-Management-Systen
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
-### 🏧 ATM Machine Simulation
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nidhishkamboj/ATM-Machine-Simulation-System)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-> Browser-based console-style ATM simulation — balance inquiry, cash withdrawal, deposit & PIN authentication mimicking real ATM UI flows.
-
-🔐 PIN Auth &nbsp;|&nbsp; 💸 Withdraw/Deposit &nbsp;|&nbsp; 💰 Balance Check
-
-</td>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🎯 Object Detection System
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![ML](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-> Real-time object detection pipeline using computer vision — identifies and labels objects in live video frames with bounding boxes.
+**Tech:** Python, OpenCV
 
-👁️ Real-Time &nbsp;|&nbsp; 🤖 CV Pipeline &nbsp;|&nbsp; 📦 Bounding Boxes
+* Real-time detection
+* Computer vision pipeline
+* Bounding boxes
+* Video processing
 
 </td>
 </tr>
+
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 📊 CampaignIQ — A/B Testing Dashboard
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nidhishkamboj/campaigniq)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+### 🏧 ATM Machine Simulation
 
-> Interactive Power BI dashboard comparing A/B test performance between a Control and Test marketing campaign — full funnel analysis from impressions to purchases, with cost-efficiency vs. scale trade-offs and a data-backed final recommendation.
+**Tech:** HTML, CSS, JavaScript
 
-📈 Funnel Analysis &nbsp;|&nbsp; 💰 Cost & Conversion &nbsp;|&nbsp; ✅ Decision Summary
+* PIN authentication
+* Deposit & withdrawal
+* Balance inquiry
+* Interactive UI
+
+🔗 Repository:
+https://github.com/nidhishkamboj/ATM-Machine-Simulation-System
 
 </td>
-<td width="50%" valign="top">
+
+<td width="50%">
 
 ### 🌐 Personal Portfolio
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nidhishkamboj/personal-portfolio)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-> Responsive personal portfolio showcasing my work as a Full Stack Developer & Data Analyst — built from scratch.
+**Tech:** HTML, CSS, JavaScript
 
-📱 Responsive &nbsp;|&nbsp; 🎨 Custom Design &nbsp;|&nbsp; ⚡ Vanilla JS
+* Responsive design
+* Project showcase
+* Modern UI
+* Mobile friendly
 
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-<br/>
-
-**More projects coming soon...**
-
-![WIP](https://img.shields.io/badge/🔧%20In%20Progress-ML%20on%20Hugging%20Face-7C3AED?style=for-the-badge)
-
-<br/>
+🔗 Repository:
+https://github.com/nidhishkamboj/personal-portfolio
 
 </td>
 </tr>
@@ -190,34 +186,93 @@ me = NidhishKamboj()
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nidhishkamboj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhishkamboj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff" height="165"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nidhishkamboj&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<br/><br/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhishkamboj&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nidhishkamboj&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="70%"/>
+</div>
 
-<br/><br/>
+<br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nidhishkamboj&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=7C3AED&point=ffffff" width="95%"/>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=nidhishkamboj&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
+# 🏆 GitHub Trophies
 
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nidhishkamboj&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nidhishkamboj&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+* Advanced SQL
+* Data Engineering Fundamentals
+* Cloud Computing
+* Machine Learning Pipelines
+* API Development
+* Dashboard Optimization
+
+---
+
+# 💼 Open To Opportunities
+
+### Interested Roles
+
+* 📊 Data Analyst
+* 📈 Business Intelligence Analyst
+* 🐍 Python Developer
+* ⚙️ Backend Developer
+* 🤖 Junior Machine Learning Engineer
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/nidhishkamboj">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:nidhishkamboj@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/nidhishkamboj">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&fontSize=20&fontColor=ffffff&animation=fadeIn"/>
-
-*"Code is like humor. When you have to explain it, it's bad."* — **Cory House**
+### ⭐ "Turning data into decisions and ideas into products."
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:7C3AED,100:06B6D4"/>
