@@ -206,15 +206,7 @@ https://github.com/nidhishkamboj/personal-portfolio
 
 ---
 
-# 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nidhishkamboj&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
 
 # 📈 Contribution Activity
 
