@@ -248,6 +248,9 @@ Features:
 - Detection pipeline
 - Bounding boxes
 
+  
+🔗 Repository:
+https://github.com/nidhishkamboj/Object-detection
 
 </td>
 
